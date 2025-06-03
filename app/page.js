@@ -1,6 +1,5 @@
 import ClientLogo from "@/components/ClientLogo";
 import Counter from "@/components/Counter";
-import Team from "@/components/Team";
 import Testimonials from "@/components/testimonials/Testimonials1";
 
 import { WorkingProcess2 } from "@/components/WorkingProcess";
@@ -10,11 +9,10 @@ import Link from "next/link";
 const page = () => {
   const singlePage = [
     { id: 1, title: "Home", link: "#home" },
-    { id: 2, title: "Team", link: "#team" },
-    { id: 3, title: "Services", link: "#services" },
-    { id: 4, title: "Work Process", link: "#work-process" },
-    { id: 5, title: "Testimonials", link: "#testimonials" },
-    { id: 6, title: "Blog", link: "#blog" },
+    { id: 2, title: "Services", link: "#services" },
+    { id: 3, title: "Work Process", link: "#work-process" },
+    { id: 4, title: "Testimonials", link: "#testimonials" },
+    { id: 5, title: "Blog", link: "#blog" },
   ];
   return (
     <TekprofLayout
@@ -581,28 +579,6 @@ const page = () => {
         </div>
       </section>
       {/* Achievement Area end */}
-      {/* Team Area start */}
-      <section id="team" className="team-area py-130 rpy-100 rel z-1">
-        <div className="container">
-          <div className="row justify-content-center">
-            <div className="col-lg-12">
-              <div
-                className="section-title text-center mb-50"
-                data-aos="fade-up"
-                data-aos-duration={1500}
-                data-aos-offset={50}
-              >
-                <span className="sub-title color-primary mb-10">
-                  Meet Our Team
-                </span>
-                <h2>Experience Technical Team</h2>
-              </div>
-            </div>
-          </div>
-          <Team />
-        </div>
-      </section>
-      {/* Team Area end */}
       {/* Working Process Area start */}
       <WorkingProcess2 />
       {/* Working Process Area end */}
