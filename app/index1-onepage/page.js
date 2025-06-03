@@ -21,7 +21,7 @@ const page = () => {
       header={1}
       footer={1}
       rootElements={{
-        "--tekprof-primary-color": "#FC5546",
+        "--tekprof-primary-color": "#0A58CA",
         "--tekprof-heading-color": "#020626",
         "--tekprof-gray-color": "#FAF8F6",
       }}
@@ -43,12 +43,10 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <span className="sub-title mb-15">Modern IT Solutions</span>
-                <h1>Empowering Businesses with IT Solutions</h1>
+                <span className="sub-title mb-15">Auckland IT Support</span>
+                <h1>Simple, smart IT for your home and business</h1>
                 <p>
-                  An IT solution agency is your trusted partner in navigating
-                  complexities landscape wide range of services such as
-                  software.
+                  We provide IT support for homes and small businesses, specialising in cloud migration, device management, data protection, and everyday tech troubleshooting
                 </p>
                 <Link href="services" className="theme-btn mt-15">
                   Explore UinTech IT Services
@@ -81,7 +79,7 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <span className="sub-title color-primary mb-10">
-                  Modern IT Solutions
+                  Auckland IT Support
                 </span>
                 <h2>
                   Transforming Challenges Into Opportunities with Smart IT
@@ -308,7 +306,7 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <span className="sub-title color-primary mb-10">
-                  Modern IT Solutions
+                  Auckland IT Support
                 </span>
                 <h2>Empowering Businesses With Advanced IT Solutions</h2>
               </div>

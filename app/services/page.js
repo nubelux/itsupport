@@ -20,7 +20,7 @@ const page = () => {
               >
                 <div className="section-title mb-50 rmb-30">
                   <span className="sub-title color-primary mb-10">
-                    Modern IT Solutions
+                    Auckland IT Support
                   </span>
                   <h2>Empowering Businesses With Advanced Tech Solutions</h2>
                 </div>

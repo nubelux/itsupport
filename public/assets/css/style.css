@@ -60,14 +60,14 @@ body {
   font-family: var(--tekprof-base-font);
   --tekprof-base-font: 'Inter', serif;
   --tekprof-heading-font: 'Hanken Grotesk', serif;
-  --tekprof-primary-color: #FC5546;
+  --tekprof-primary-color: #0A58CA;
   --tekprof-heading-color: #0B0C0C;
-  --tekprof-base-color: #5B5B5B;
+  --tekprof-base-color: #333F5C ;
   --tekprof-lighter-color: #F3F6F9;
-  --tekprof-gray-color: #F3F6F9;
+  --tekprof-gray-color: #DDE3EC;
   --tekprof-blue-color: #021433;
   --tekprof-border-color: rgba(2, 20, 51, 0.1);
-  --tekprof-primary-rgb: 252, 85, 70; }
+  --tekprof-primary-rgb: 10, 88, 202; }
 
 a {
   color: inherit;

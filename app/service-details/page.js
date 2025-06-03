@@ -19,7 +19,7 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <span className="sub-title color-primary mb-10">
-                  Modern IT Solutions
+                  Auckland IT Support
                 </span>
                 <h2>Custom-Built Software Solutions to Drive Your Success</h2>
               </div>
@@ -112,7 +112,7 @@ const page = () => {
                     >
                       <div className="section-title mb-50 rmb-40">
                         <span className="sub-title color-primary mb-10">
-                          Modern IT Solutions
+                          Auckland IT Support
                         </span>
                         <h2>
                           Transforming Ideas into Powerful, Scalable Software
