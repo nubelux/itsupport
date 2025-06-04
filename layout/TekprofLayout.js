@@ -14,7 +14,7 @@ const TekprofLayout = ({
   rootElements = {
     "--tekprof-base-font": "'Inter', serif",
     "--tekprof-heading-font": "'Hanken Grotesk', serif",
-    "--tekprof-primary-color": "#FC5546",
+    "--tekprof-primary-color": "#0A58CA",
     "--tekprof-heading-color": "#020626",
     "--tekprof-blue-color": "#021433",
     "--tekprof-gray-color": "#FAF8F6",

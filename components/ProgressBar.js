@@ -59,7 +59,7 @@ export const ProgressBar2 = ({
 
 export const ProgressBar3 = ({
   value = 89,
-  color = "#FC5546",
+  color = "#0A58CA",
   extraCls = "two",
   trailColor = "transparent",
   counterValue = 89,
